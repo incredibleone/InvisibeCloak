@@ -1,5 +1,5 @@
 # InvisibeCloak
-Not only Harry potter, everyone can use the invisible cloak because evryone is special. Try the cloak and become an invisible personality.
+Not only Harry potter, everyone can use the invisible cloak because everyone is special. Try the cloak and become an invisible personality.
 
 About
 A python program that presents the background image instead of the specified colored cloth.
